@@ -1,0 +1,21 @@
+{
+  "data_asset_type": null,
+  "expectation_suite_name": "projects",
+  "expectations": [],
+  "meta": {
+    "citations": [
+      {
+        "batch_kwargs": {
+          "data_asset_name": "projects",
+          "datasource": "datadir",
+          "path": "/home/jarvis/TCS/reading/github_repos/end_to_end/datasets/projects.json"
+        },
+        "batch_markers": null,
+        "batch_parameters": null,
+        "citation_date": "20210608T144204.623063Z",
+        "comment": "New suite added via CLI"
+      }
+    ],
+    "great_expectations_version": "0.13.7"
+  }
+}

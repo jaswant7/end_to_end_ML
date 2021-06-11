@@ -1,0 +1,21 @@
+{
+  "data_asset_type": "Dataset",
+  "expectation_suite_name": "tags",
+  "expectations": [],
+  "meta": {
+    "citations": [
+      {
+        "batch_kwargs": {
+          "data_asset_name": "tags",
+          "datasource": "datadir",
+          "path": "/home/jarvis/TCS/reading/github_repos/end_to_end/datasets/tags.json"
+        },
+        "batch_markers": null,
+        "batch_parameters": null,
+        "citation_date": "20210608T144319.894465Z",
+        "comment": "New suite added via CLI"
+      }
+    ],
+    "great_expectations_version": "0.13.7"
+  }
+}

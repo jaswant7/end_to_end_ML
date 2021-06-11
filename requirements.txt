@@ -1,0 +1,16 @@
+optuna==2.4.0
+numpyencoder==0.3.0
+typer==0.3.2
+pretty-errors==1.2.19
+rich==9.9.0
+nltk==3.2.5
+scikit-multilearn==0.2.0
+seaborn==0.11.1
+sklearn==0.0
+torch==1.7.0
+uvicorn[standard]==0.13.3
+fastapi==0.63.0
+wordcloud==1.5.0
+matplotlib==3.2.2
+mlflow==1.13.1
+snorkel==0.9.6

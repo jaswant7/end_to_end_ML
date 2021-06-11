@@ -1,0 +1,402 @@
+{
+  "overall": {
+    "precision": 0.8359224383544477,
+    "recall": 0.5953389830508474,
+    "f1": 0.6746711303901033,
+    "num_samples": 211.0
+  },
+  "class": {
+    "attention": {
+      "precision": 0.8,
+      "recall": 0.42105263157894735,
+      "f1": 0.5517241379310345,
+      "num_samples": 19.0
+    },
+    "autoencoders": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "num_samples": 6.0
+    },
+    "computer-vision": {
+      "precision": 0.6721311475409836,
+      "recall": 0.7068965517241379,
+      "f1": 0.6890756302521007,
+      "num_samples": 58.0
+    },
+    "convolutional-neural-networks": {
+      "precision": 0.75,
+      "recall": 0.1875,
+      "f1": 0.3,
+      "num_samples": 16.0
+    },
+    "data-augmentation": {
+      "precision": 1.0,
+      "recall": 0.7142857142857143,
+      "f1": 0.8333333333333333,
+      "num_samples": 7.0
+    },
+    "embeddings": {
+      "precision": 1.0,
+      "recall": 0.8181818181818182,
+      "f1": 0.9,
+      "num_samples": 11.0
+    },
+    "flask": {
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.33333333333333337,
+      "num_samples": 5.0
+    },
+    "generative-adversarial-networks": {
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "f1": 0.5,
+      "num_samples": 12.0
+    },
+    "graph-neural-networks": {
+      "precision": 0.7142857142857143,
+      "recall": 0.5555555555555556,
+      "f1": 0.6250000000000001,
+      "num_samples": 9.0
+    },
+    "graphs": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "num_samples": 12.0
+    },
+    "huggingface": {
+      "precision": 0.875,
+      "recall": 0.5833333333333334,
+      "f1": 0.7000000000000001,
+      "num_samples": 12.0
+    },
+    "image-classification": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 5.0
+    },
+    "interpretability": {
+      "precision": 1.0,
+      "recall": 0.2222222222222222,
+      "f1": 0.3636363636363636,
+      "num_samples": 9.0
+    },
+    "keras": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6666666666666666,
+      "num_samples": 14.0
+    },
+    "language-modeling": {
+      "precision": 1.0,
+      "recall": 0.7,
+      "f1": 0.8235294117647058,
+      "num_samples": 10.0
+    },
+    "natural-language-processing": {
+      "precision": 0.7068965517241379,
+      "recall": 0.6507936507936508,
+      "f1": 0.6776859504132232,
+      "num_samples": 63.0
+    },
+    "node-classification": {
+      "precision": 0.5,
+      "recall": 0.6666666666666666,
+      "f1": 0.5714285714285715,
+      "num_samples": 3.0
+    },
+    "object-detection": {
+      "precision": 0.8888888888888888,
+      "recall": 0.7272727272727273,
+      "f1": 0.7999999999999999,
+      "num_samples": 11.0
+    },
+    "pretraining": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 4.0
+    },
+    "production": {
+      "precision": 1.0,
+      "recall": 0.375,
+      "f1": 0.5454545454545454,
+      "num_samples": 8.0
+    },
+    "pytorch": {
+      "precision": 0.9,
+      "recall": 0.7105263157894737,
+      "f1": 0.7941176470588235,
+      "num_samples": 38.0
+    },
+    "question-answering": {
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "f1": 0.5,
+      "num_samples": 3.0
+    },
+    "regression": {
+      "precision": 0.8333333333333334,
+      "recall": 0.625,
+      "f1": 0.7142857142857143,
+      "num_samples": 8.0
+    },
+    "reinforcement-learning": {
+      "precision": 1.0,
+      "recall": 0.8888888888888888,
+      "f1": 0.9411764705882353,
+      "num_samples": 9.0
+    },
+    "representation-learning": {
+      "precision": 0.8571428571428571,
+      "recall": 0.6666666666666666,
+      "f1": 0.75,
+      "num_samples": 9.0
+    },
+    "scikit-learn": {
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "f1": 0.5,
+      "num_samples": 9.0
+    },
+    "segmentation": {
+      "precision": 0.8,
+      "recall": 0.4444444444444444,
+      "f1": 0.5714285714285714,
+      "num_samples": 9.0
+    },
+    "self-supervised-learning": {
+      "precision": 0.8,
+      "recall": 0.5714285714285714,
+      "f1": 0.6666666666666666,
+      "num_samples": 7.0
+    },
+    "tensorflow": {
+      "precision": 1.0,
+      "recall": 0.65625,
+      "f1": 0.7924528301886793,
+      "num_samples": 32.0
+    },
+    "tensorflow-js": {
+      "precision": 1.0,
+      "recall": 0.42857142857142855,
+      "f1": 0.6,
+      "num_samples": 7.0
+    },
+    "time-series": {
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.888888888888889,
+      "num_samples": 5.0
+    },
+    "transfer-learning": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "num_samples": 6.0
+    },
+    "transformers": {
+      "precision": 0.875,
+      "recall": 0.7,
+      "f1": 0.7777777777777777,
+      "num_samples": 30.0
+    },
+    "unsupervised-learning": {
+      "precision": 0.5,
+      "recall": 0.16666666666666666,
+      "f1": 0.25,
+      "num_samples": 6.0
+    }
+  },
+  "slices": {
+    "class": {
+      "cv_transformers": {
+        "precision": 0.8,
+        "recall": 0.5454545454545454,
+        "f1": 0.6486486486486486,
+        "num_samples": 6
+      },
+      "short_text": {
+        "precision": 0.875,
+        "recall": 0.5384615384615384,
+        "f1": 0.6666666666666667,
+        "num_samples": 7
+      }
+    },
+    "overall": {
+      "precision": 0.8403846153846154,
+      "recall": 0.5416890801506186,
+      "f1": 0.6583506583506584
+    }
+  },
+  "behavioral": {
+    "score": 1.0,
+    "results": {
+      "passed": [
+        {
+          "input": {
+            "text": "Transformers have revolutionized the ML field.",
+            "tags": [
+              "transformers"
+            ]
+          },
+          "prediction": {
+            "input_text": "Transformers have revolutionized the ML field.",
+            "preprocessed_text": "transformers revolutionized ml field",
+            "predicted_tags": [
+              "natural-language-processing",
+              "transformers"
+            ]
+          },
+          "type": "INV"
+        },
+        {
+          "input": {
+            "text": "Transformers have disrupted the ML field.",
+            "tags": [
+              "transformers"
+            ]
+          },
+          "prediction": {
+            "input_text": "Transformers have disrupted the ML field.",
+            "preprocessed_text": "transformers disrupted ml field",
+            "predicted_tags": [
+              "attention",
+              "natural-language-processing",
+              "transformers"
+            ]
+          },
+          "type": "INV"
+        },
+        {
+          "input": {
+            "text": "Transformers have accelerated the ML field.",
+            "tags": [
+              "transformers"
+            ]
+          },
+          "prediction": {
+            "input_text": "Transformers have accelerated the ML field.",
+            "preprocessed_text": "transformers accelerated ml field",
+            "predicted_tags": [
+              "attention",
+              "natural-language-processing",
+              "transformers"
+            ]
+          },
+          "type": "INV"
+        },
+        {
+          "input": {
+            "text": "generative adverseril network are very popular in machine learning projects.",
+            "tags": [
+              "generative-adversarial-networks"
+            ]
+          },
+          "prediction": {
+            "input_text": "generative adverseril network are very popular in machine learning projects.",
+            "preprocessed_text": "generative adverseril network popular machine learning projects",
+            "predicted_tags": [
+              "generative-adversarial-networks"
+            ]
+          },
+          "type": "INV"
+        },
+        {
+          "input": {
+            "text": "generated adversarial networks are very popular in machine learning projects.",
+            "tags": [
+              "generative-adversarial-networks"
+            ]
+          },
+          "prediction": {
+            "input_text": "generated adversarial networks are very popular in machine learning projects.",
+            "preprocessed_text": "generated adversarial networks popular machine learning projects",
+            "predicted_tags": [
+              "generative-adversarial-networks"
+            ]
+          },
+          "type": "INV"
+        },
+        {
+          "input": {
+            "text": "A TensorFlow implementation of transformers.",
+            "tags": [
+              "tensorflow",
+              "transformers"
+            ]
+          },
+          "prediction": {
+            "input_text": "A TensorFlow implementation of transformers.",
+            "preprocessed_text": "tensorflow implementation transformers",
+            "predicted_tags": [
+              "attention",
+              "natural-language-processing",
+              "tensorflow",
+              "transformers"
+            ]
+          },
+          "type": "DIR"
+        },
+        {
+          "input": {
+            "text": "A Huggingface implementation of transformers.",
+            "tags": [
+              "huggingface",
+              "transformers"
+            ]
+          },
+          "prediction": {
+            "input_text": "A Huggingface implementation of transformers.",
+            "preprocessed_text": "huggingface implementation transformers",
+            "predicted_tags": [
+              "attention",
+              "huggingface",
+              "natural-language-processing",
+              "transformers"
+            ]
+          },
+          "type": "DIR"
+        },
+        {
+          "input": {
+            "text": "transformers have revolutionized machine learning.",
+            "tags": [
+              "transformers"
+            ]
+          },
+          "prediction": {
+            "input_text": "transformers have revolutionized machine learning.",
+            "preprocessed_text": "transformers revolutionized machine learning",
+            "predicted_tags": [
+              "natural-language-processing",
+              "transformers"
+            ]
+          },
+          "type": "MFT"
+        },
+        {
+          "input": {
+            "text": "graph neural networks have revolutionized machine learning.",
+            "tags": [
+              "graph-neural-networks"
+            ]
+          },
+          "prediction": {
+            "input_text": "graph neural networks have revolutionized machine learning.",
+            "preprocessed_text": "graph neural networks revolutionized machine learning",
+            "predicted_tags": [
+              "graph-neural-networks",
+              "graphs"
+            ]
+          },
+          "type": "MFT"
+        }
+      ],
+      "failed": []
+    }
+  }
+}

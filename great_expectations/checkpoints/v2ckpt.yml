@@ -1,0 +1,12 @@
+name: v2ckpt
+config_version:
+module_name: great_expectations.checkpoint
+class_name: LegacyCheckpoint
+validation_operator_name:
+batches:
+  - batch_kwargs:
+      path: /home/jarvis/TCS/reading/github_repos/end_to_end/datasets/tags.json
+      datasource: datadir
+      data_asset_name: tags
+    expectation_suite_names:
+      - tags

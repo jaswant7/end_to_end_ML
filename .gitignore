@@ -1,0 +1,22 @@
+#VSCODE
+.vscode/
+
+#unit test
+.coverage
+htmlcov/
+.pytest_cache/
+
+mlruns/
+
+logs/
+
+/stores
+
+/datasets
+
+*.egg-info/
+
+/assets/experiments
+/assets/data/*.json
+
+
